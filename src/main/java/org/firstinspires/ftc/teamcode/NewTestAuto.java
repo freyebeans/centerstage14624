@@ -16,7 +16,7 @@ import java.util.Objects;
 @Autonomous
 public class NewTestAuto extends LinearOpMode {
 
-    private static final String TFOD_MODEL_ASSET = "15058Props.tflite";
+    private static final String TFOD_MODEL_ASSET = "14624Props.tflite";
     private static final String[] LABELS = {
             "blueJag",
             "redJag",
